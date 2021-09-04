@@ -1,3 +1,3 @@
 function server () {
-    console.log('server is running');
+    console.log('server is not running');
 }
